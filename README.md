@@ -1,2 +1,3 @@
 # VeldLink-2026
  VeldLink Systems is a 2026 Agritech start-up operating across Stellenbosch (South Africa) and Windhoek (Namibia) that  is developing "EcoTrack 2026", a software suite designed to manage the high-stakes export of livestock and fresh produce across the SADC borders. 
+The reason as to why the fix-sync-logic branch was created was to isolate the sync logic error from the main code branch whilst the fix-sync-logic branch is still connected to the main code branch. The reason as to why the fix-sync-logic branch was created was for the developers to fix the error only without fix having to affect the main code branch that is stable.
